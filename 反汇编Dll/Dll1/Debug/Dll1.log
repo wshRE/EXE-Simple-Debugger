@@ -1,0 +1,4 @@
+﻿  dllmain.cpp
+    正在创建库 C:\Users\24313\Desktop\汇编使用反汇编器\Dll1\Debug\Dll1.lib 和对象 C:\Users\24313\Desktop\汇编使用反汇编器\Dll1\Debug\Dll1.exp
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  Dll1.vcxproj -> C:\Users\24313\Desktop\汇编使用反汇编器\Dll1\Debug\Dll1.dll
